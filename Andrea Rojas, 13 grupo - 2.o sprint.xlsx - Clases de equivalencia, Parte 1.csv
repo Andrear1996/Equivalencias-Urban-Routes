@@ -1,0 +1,49 @@
+Grupo de comprobaciones,Nombre de la clase,Límites,Datos de prueba dentro de la clase (contenido del campo),Datos de prueba en los límites (contenido del campo),Clarificación y optimización
+Nombre,Nombre con letras del alfabeto latino,,Sam ,,Sam 
+,Nombre con letras del alfabeto de otros idiomas,,"加布里埃爾F加布爾
+",,"加布里埃爾F加布爾
+"
+,Nombre con números,,Sam39,,Sam39
+,Nombre con caracteres especiales,,Sam/*,,Sam/*
+,Nombre con un espacio dentro,,S_am,,S_am
+,Nombre con un espacio antes,,_Sam,,_Sam
+,Nombre con un espacio después,,Sam_,,Sam_
+,Nombre con un guión antes,,-Sam,,-Sam
+,Nombre con un guión después ,,Sam-,,Sam-
+,Nombre con un guión dentro,,S-am,,S-am
+,Campo vacío ,,0 — string vacío,,0 — string vacío
+,La longitud del texto es de 2 a 14 caracteres,"2, 14","6 caracteres - ""Andrea""",2- Sa,2- Sa
+,,,,14- Mictecacíhuatl,14- Mictecacíhuatl
+,,,,1- S,1- S
+,,,,15- Xochipitzahuatl,15- Xochipitzahuatl
+,,,,3- Sam,
+,,,,13- Zempoaltecatl,13- Zempoaltecatl
+,La longitud del texto es de 15 caracteres y más,15,"16 caracteres - ""Quecholliquetzal""",15- Xochipitzahuatl,
+,,,,16- Quecholliquetzal,16- Quecholliquetzal
+,,,,14- Mictecacíhuatl,
+,La longitud del texto es de menos de dos caracteres,"0,2",0 — string vacío,0 — string vacío,
+,,,,1- S,
+,,,,2- Sa,
+Apellido,Apellido con letras del alfabeto latino,,Willams,,Willams
+,Apellido con letras del alfabeto de otros idiomas,,加布里埃爾F爾,,加布里埃爾F爾
+,Apellido con números,,Willams88,,Willams88
+,Apellido con caracteres especiales,,Williams(*),,Williams(*)
+,Apellido con un espacio dentro,,Willia ms,,Willia ms
+,Apellido con un espacio antes,,_Williams,,_Williams
+,Apellido con un espacio después,,Williams_,,Williams_
+,Apellido con un guión antes,,-Williams,,-Williams
+,Apellido con un guión después ,,Williams-,,Williams-
+,Apellido con un guión dentro,,Willi-ams,,Willi-ams
+,Campo vacío ,,0 — string vacío,,0 — string vacío
+,La longitud del texto es de 2 a 14 caracteres,"2, 14",Williams,2- Wi,2- Wi
+,,,,14- Laverdedelaros,14- Laverdedelaros
+,,,,1- W,1- W
+,,,,15- Zoklinemuyfgtsr,15- Zoklinemuyfgtsr
+,,,,3- Will,3- Wil
+,,,,13- Wilopfersjamp,13- Wilopfersjamp
+,La longitud del texto es de 15 caracteres y más,15,"16 caracteres - ""Rodriguezescobar""",15- Xochipitzahuatl,
+,,,,16- Quecholliquetzal,16- Quecholliquetzal
+,,,,14- Mictecacíhuatl,
+,La longitud del texto es de menos de dos caracteres,"0,2",0 — string vacío,0 — string vacío,
+,,,,1- W,
+,,,,2- Wi,

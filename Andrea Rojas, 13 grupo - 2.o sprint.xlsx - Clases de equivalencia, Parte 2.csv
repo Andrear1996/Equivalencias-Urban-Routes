@@ -1,0 +1,37 @@
+Grupo de comprobaciones,Nombre de la clase,Límites,Datos de prueba dentro de la clase (contenido del campo),Datos de prueba en los límites (contenido del campo),Clarificación y optimización
+Distancia entre las direcciones,distancia > 0,,"East 2nd
+Street, 601 - 4201 Whittier
+Blvd",,"1,5 km"
+,distancia = 0,,"East 2nd
+Street, 601 - East 2nd
+Street, 601",,0 km
+Hora de salida,De 22:01-00:00 -  velocidad: 45 km/h,De 22:01-00:00,23:00,22:01,22:01
+,,,,00:00,00:00
+,,,,22:02,22:02
+,,,,00:01,00:01
+,,,,22:00,22:00
+,,,,23:59,23:59
+,De 00:01-08:00 - velocidad: 45 km/h,De 00:01-08:01,7:03,00:01,
+,,,,08:01,08:01
+,,,,00:02,00:02
+,,,,08:02,08:02
+,,,,00:00,
+,,,,08:00,08:00
+,De 08:01-12:00 - velocidad: 30 km/h,De 08:01-12:01,10:05,08:01,
+,,,,12:01,12:01
+,,,,8:02,
+,,,,12:02,12:02
+,,,,8:00,
+,,,,12:00,12:00
+,De 12:01-18:00 - velocidad: 40 km/h,De 12:01-18:01,15:00,12:01,
+,,,,18:01,18:01
+,,,,12:02,
+,,,,18:02,18:02
+,,,,12:00,
+,,,,18:00,18:00
+,De 18:01-22:00 - velocidad: 25 km/h,De 18:01-22:01,20:15,18:01,
+,,,,22:01,
+,,,,18:02,
+,,,,22:02,
+,,,,18:00,
+,,,,22:00,

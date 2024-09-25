@@ -1,0 +1,44 @@
+Cálculo del tiempo y el costo del viaje,,,,,,
+ ID del caso de prueba,Nombre del caso de prueba,Condición previa,Número de pasos,Descripción de los pasos,Resultado esperado,Estado
+p-1,El tiempo de conducción y el costo de un viaje en un automóvil compartido en Urban Routes con una hora de inicio de 18:01-22:00,"1. Abrir el servicio de Urban Routes
+2. La reserva se realiza a las 19:03",1,"Introducir en el campo “Desde” la dirección ""East 2nd
+Street, 601""
+","La duración del viaje es de 2,136 minutos y el costo es de $0.2136",No aprobado
+,,,2,"Introducir en el campo “Hasta” la dirección ""1717 E 7th St """,,
+,,,3,"Haz click en el botón ""personal""",,
+,,,4,"Haz click en el botón ""compartir un automóvil""",,
+,,,5,"Haz click en el botón ""reservar""",,
+p-2,El tiempo de conducción y el costo de un viaje en un automóvil compartido en Urban Routes con una hora de inicio de 22:01-00:00,"1. Abrir el servicio de Urban Routes
+2. La reserva se realiza a las 22:30",1,"Introducir en el campo “Desde” la dirección ""East 2nd
+Street, 601""
+","La duración del viaje es de 1,86666667 minutos y el costo es de $0,186666667",No aprobado
+,,,2,"Introducir en el campo “Hasta” la dirección ""1300 1st ST""",,
+,,,3,"Haz click en el botón ""personal""",,
+,,,4,"Haz click en el botón ""compartir un automóvil""",,
+,,,5,"Haz click en el botón ""reservar""",,
+p-3,El tiempo de conducción y el costo de un viaje en un automóvil compartido en Urban Routes con una hora de inicio de 00:01-08:00,"1. Abrir el servicio de Urban Routes
+2. La reserva se realiza a las 07:03",1,"Introducir en el campo “Desde” la dirección ""4201 Whittier
+Blvd""
+","La duración del viaje es de 2,53333333 minutos y el costo es de $0,25333333",No aprobado
+,,,2,"Introducir en el campo “Hasta” la dirección ""1717 E 7th St """,,
+,,,3,"Haz click en el botón ""personal""",,
+,,,4,"Haz click en el botón ""compartir un automóvil""",,
+,,,5,"Haz click en el botón ""reservar""",,
+p-4,El tiempo de conducción y el costo de un viaje en un automóvil compartido en Urban Routes con una hora de inicio de 08:01-12:00,"1. Abrir el servicio de Urban Routes
+2. La reserva se realiza a las 09:00",1,"Introducir en el campo “Desde” la dirección ""1917 Bay St""
+","La duración del viaje es de 3,4 minutos y el costo es de $0,34",No aprobado
+,,,2,"Introducir en el campo “Hasta” la dirección ""1811 E 20th St """,,
+,,,3,"Haz click en el botón ""personal""",,
+,,,4,"Haz click en el botón ""compartir un automóvil""",,
+,,,5,"Haz click en el botón ""reservar""",,
+p-5,El tiempo de conducción y el costo de un viaje en un automóvil compartido en Urban Routes con una hora de inicio de 12:01-18:00,"1. Abrir el servicio de Urban Routes
+2. La reserva se realiza a las 15:12",1,"Introducir en el campo “Desde” la dirección ""615 S
+Broadway""
+","La duración del viaje es de 3,45 minutos y el costo es de $0,345",No aprobado
+,,,2,"Introducir en el campo “Hasta” la dirección ""1717 E 7th St""",,
+,,,3,"Haz click en el botón ""personal""",,
+,,,4,"Haz click en el botón ""compartir un automóvil""",,
+,,,5,"Haz click en el botón ""reservar""",,
+p-6,El tiempo de conducción y el costo de un viaje en un automóvil compartido en Urban Routes con una distancia de 0 km,1. Abrir el servicio de Urban Routes,1,"Introducir en el campo “Desde” la dirección ""East 2nd Street, 601""
+","La duración del viaje es de 0 minutos y el costo es de $0,00",No aprobado
+,,,2,"Introducir en el campo “Hasta” la dirección ""1East 2nd Street, 601""",,
